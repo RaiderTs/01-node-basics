@@ -1,0 +1,30 @@
+{
+  "name": "01-node-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaiderTs/01-node-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaiderTs/01-node-basics/issues"
+  },
+  "homepage": "https://github.com/RaiderTs/01-node-basics#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "shortid": "^2.2.16",
+    "yargs": "^16.2.0"
+  }
+}
